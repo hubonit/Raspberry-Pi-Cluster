@@ -1,6 +1,9 @@
 /* -*- fabonacci running on Raspberry Pi cluster, have fun!!; -*- */
 /*
  *  Author: Hub on IT Engineering Solutions
+ *
+ *  Documentation:
+ *  http://hubonit.com/ideas/?p=300
  */
 
 #include "mpi.h"
